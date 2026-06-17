@@ -56,3 +56,4 @@ public abstract class Persona {
         return "Nombre: " + nombre + " | Usuario: " + usuario + " | Rol: " + getRol();
     }
 }
+// RF-06: Polimorfismo con getRol() para cada tipo de usuario
