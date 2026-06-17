@@ -108,3 +108,4 @@ public class Inventario implements Reportable {
         return reporte.toString();
     }
 }
+// RF-02: Metodo actualizarStock valida stock minimo
