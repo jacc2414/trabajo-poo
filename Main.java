@@ -136,3 +136,4 @@ public class Main {
     }
 }
 // Main: Menu interactivo para demostracion del sistema
+// RF-09: Menu interactivo con control de acceso por rol
