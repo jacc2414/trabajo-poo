@@ -109,3 +109,4 @@ public class Inventario implements Reportable {
     }
 }
 // RF-02: Metodo actualizarStock valida stock minimo
+// RF-02: Metodo actualizarStock valida stock minimo
