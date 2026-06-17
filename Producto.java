@@ -91,3 +91,4 @@ public class Producto {
         return nombre + ";" + stock + ";" + precio;
     }
 }
+// RF-01: Validacion de productos duplicados implementada
