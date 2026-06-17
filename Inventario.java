@@ -108,3 +108,4 @@ public class Inventario implements Reportable {
         return reporte.toString();
     }
 }
+// RF-05: Reporte de inventario con formato tabular
