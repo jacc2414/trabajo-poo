@@ -19,3 +19,4 @@ public class EncargadoAlmacen extends Persona {
         return "Encargado de Almacén";
     }
 }
+// RF-08: Encargado de Almacen con control de stock
