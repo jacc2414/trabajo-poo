@@ -108,3 +108,4 @@ public class Inventario implements Reportable {
         return reporte.toString();
     }
 }
+// RF-03: Busqueda insensible a mayusculas implementada
