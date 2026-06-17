@@ -21,3 +21,4 @@ public class Administrador extends Persona {
         return "Administrador";
     }
 }
+// RF-06: Administrador con acceso total - herencia de Persona
