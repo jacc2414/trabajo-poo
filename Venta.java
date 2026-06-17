@@ -58,3 +58,4 @@ public class Venta {
     }
 }
 // RF-04: Descuento automatico de stock al vender
+// RF-04: Calculo automatico de total en constructor
