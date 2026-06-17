@@ -109,3 +109,4 @@ public class Inventario implements Reportable {
     }
 }
 // RF-03: Busqueda insensible a mayusculas implementada
+// RF-03: Busqueda por nombre con equalsIgnoreCase
