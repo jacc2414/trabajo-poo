@@ -91,3 +91,6 @@ public class Producto {
         return nombre + ";" + stock + ";" + precio;
     }
 }
+// RF-01: Validacion de productos duplicados implementada
+// RF-01: Validaciones de registro implementadas - stock minimo = 1
+// RF-01: Validaciones de registro implementadas
