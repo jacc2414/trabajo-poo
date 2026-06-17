@@ -74,3 +74,4 @@ public class Reporte implements Reportable {
         return reporte.toString();
     }
 }
+// RF-05: Reporte de ventas con formato tabular
