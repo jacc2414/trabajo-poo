@@ -91,3 +91,4 @@ public class Producto {
         return nombre + ";" + stock + ";" + precio;
     }
 }
+// RF-02: Validacion de stock negativo implementada
