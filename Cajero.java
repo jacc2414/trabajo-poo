@@ -20,3 +20,4 @@ public class Cajero extends Persona {
         return "Cajero";
     }
 }
+// RF-07: Cajero con permisos limitados a ventas
