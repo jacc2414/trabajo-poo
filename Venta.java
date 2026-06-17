@@ -57,3 +57,4 @@ public class Venta {
         return fecha + ";" + producto.getNombre() + ";" + cantidad + ";" + total;
     }
 }
+// RF-04: Descuento automatico de stock al vender
