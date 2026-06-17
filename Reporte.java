@@ -74,3 +74,4 @@ public class Reporte implements Reportable {
         return reporte.toString();
     }
 }
+// RF-07: Calculo de total acumulado de ventas
